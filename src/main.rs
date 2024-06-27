@@ -1,5 +1,4 @@
 use dotenv::dotenv;
-use std::env;
 
 use serenity::all::{ChannelId, Member};
 use serenity::async_trait;
