@@ -9,7 +9,7 @@ DISCORD_TOKEN="<replace with your own bot token>"
 
 
 ## TODO:
-- [x] add error handling for "random" crashes in generate_ai_response() function
+- [ ] add error handling for "random" crashes in generate_ai_response() function
 - [ ] send some fail message so that the user will know that it failed to generate response (currently if fails, no response)
 - [ ] make it faster somehow
 - [ ] make it remember the chat history (use api/chat instead of api/generate to generate responses)
